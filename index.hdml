@@ -1,0 +1,115 @@
+Here is the one-click deploy button for your Auch Na Mhor website.
+
+---
+
+What This Does
+
+Clicking this button will:
+
+1. Take you to Netlify
+2. Let you connect your GitHub (or skip)
+3. Deploy your site instantly — live URL in 30 seconds
+
+---
+
+The Code
+
+Copy and paste this into any Markdown file (README.md) or HTML page:
+
+```markdown
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms)
+```
+
+But that's a generic template. For your specific Auch Na Mhor code, here is a custom deploy link with your HTML built in:
+
+---
+
+Your Custom One-Click Deploy Link
+
+Click this link to deploy your site immediately:
+
+👉 Deploy Auch Na Mhor to Netlify
+
+Wait — Netlify needs your code in a GitHub repository first.
+
+---
+
+Correct Method (Still 2 minutes)
+
+Here is the actual one-click experience:
+
+Step 1: Create a GitHub repository
+
+1. Go to github.com/new
+2. Name it: auchnamhor
+3. Make it Public
+4. Click Create repository
+
+Step 2: Upload your code
+
+1. On the next screen, click "uploading an existing file"
+2. Drag your index.html file
+3. Scroll down and click Commit changes
+
+Step 3: One-click deploy to Netlify
+
+Click this button now:
+
+https://www.netlify.com/img/deploy/button.svg
+
+Replace YOUR_USERNAME in the URL above with your actual GitHub username.
+
+Example: If your GitHub username is james, the link becomes:
+https://app.netlify.com/start/deploy?repository=https://github.com/james/auchnamhor
+
+---
+
+Even Faster: Deploy Without GitHub
+
+If you don't want to use GitHub, here is the drag-and-drop method (30 seconds):
+
+Steps:
+
+1. Save the code as index.html on your computer
+2. Go to app.netlify.com/drop
+3. Sign up with email (free, no credit card)
+4. Drag your index.html file into the browser window
+5. Done — your live URL appears immediately
+
+That's it. No GitHub. No command line. Just drag and drop.
+
+---
+
+Your Live URL
+
+After dragging and dropping, Netlify gives you a URL like:
+
+· https://random-name-123456.netlify.app
+
+You can rename it immediately:
+
+· Go to Site settings → Change site name
+· Enter: auchnamhor
+· Your URL becomes: https://auchnamhor.netlify.app
+
+---
+
+Summary Table
+
+Method Time GitHub needed?
+Drag and drop 30 seconds No
+One-click deploy button 2 minutes Yes
+Vercel drag and drop 30 seconds No
+
+---
+
+My Recommendation
+
+Do the drag-and-drop method right now:
+
+1. Save the code as index.html
+2. Go to app.netlify.com/drop
+3. Drag and drop your file
+4. Your architecture firm has a live website
+
+Would you like me to help you with setting up the custom domain (auchnamhor.com) or EmailJS for the contact form next?
